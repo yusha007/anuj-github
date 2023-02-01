@@ -1,3 +1,3 @@
 a=input("enter number")
 b=input("enter number")
-print(a+b,"=sum")
+print(a+b,"=some")
